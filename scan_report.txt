@@ -1,0 +1,9 @@
+# Nmap 7.98 scan initiated Mon Oct 20 21:07:44 2025 as: nmap -sS -oN scan_report.txt 192.168.29.24
+Nmap scan report for 192.168.29.24
+Host is up (0.000027s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT     STATE SERVICE
+5000/tcp open  upnp
+7000/tcp open  afs3-fileserver
+
+# Nmap done at Mon Oct 20 21:07:44 2025 -- 1 IP address (1 host up) scanned in 0.55 seconds
